@@ -1,5 +1,12 @@
 const express = require('express');
 const app = express();
+const connectDB = require('./config/db')
+
+// connect db
+connectDB();
+
+// Bring the middle ware for json body
+// app.use(express.json({exteded:false}));
 
 app.get('/', (req,res) => res.json({'masg':'Hello World'}));
 

@@ -4,3 +4,6 @@ Neext is installing the depencies. There couple of dependies. 1. express 2. bcry
 3.jsonwebtoken 4. config --- for global variable configuration 5. express-validator ----for vallidations 6. mongoose --- absaction data layer to deal with data in the mongo data base.
 followwing is the command to instll avove packages
 npm i express bcrypt jsonwebtoken config express-validator mongoose
+
+following is the commad to install sever monitor
+npm install -D nodemon concurrently
