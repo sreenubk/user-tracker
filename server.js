@@ -6,14 +6,14 @@ const connectDB = require('./config/db')
 connectDB();
 
 // Bring the middle ware for json body
-// app.use(express.json({exteded:false}));
+app.use(express.json({exteded:false}));
 
 app.get('/', (req,res) => res.json({'masg':'Hello World'}));
 
 // define the routes of our application
 app.use('/api/users', require('./routes/users'));
 app.use('/api/auth', require('./routes/auth'));
-app.use('/api/contact', require('./routes/contacts'));
+app.use('/api/contacts', require('./routes/contacts'));
 
 const PORT = process.env.PORT || 5000;
 
