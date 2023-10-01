@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T22:41:22.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tA2Tmnz-ncp81Lef3C10" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T22:53:55.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rZDilH5JnmOkA-_qePbc" version="21.8.2" type="github">
   <diagram id="4_XCW6oBCm1cpU5HytLm" name="Page-1">
     <mxGraphModel dx="1119" dy="680" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
           <mxGeometry x="385" y="530.5" width="21" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="8jS6UkBqUCnionH_lNcG-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Conditional_Access.svg;" vertex="1" parent="1">
-          <mxGeometry x="729" y="535" width="24.71" height="30" as="geometry" />
+          <mxGeometry x="709.5" y="536.5" width="24.71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8jS6UkBqUCnionH_lNcG-30" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/ExtendedSecurityUpdates.svg;" vertex="1" parent="1">
           <mxGeometry x="425" y="530.5" width="29.26" height="32" as="geometry" />
@@ -189,6 +189,21 @@
         </mxCell>
         <mxCell id="8jS6UkBqUCnionH_lNcG-38" value="&amp;nbsp;--&amp;nbsp; Domain Driven Area usage&lt;br&gt;&lt;br&gt;&amp;nbsp;--&amp;nbsp; Lines of Business Usage" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="583.47" y="317.69" width="180" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="458.18" y="527.6" width="37.64" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="533.5" width="36.1" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="742.8" y="537.5" width="22.86" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-42" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_AD_B2C.svg;" vertex="1" parent="1">
+          <mxGeometry x="778.31" y="531.5" width="37.73" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Custom_Azure_AD_Roles.svg;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="531.5" width="31" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
