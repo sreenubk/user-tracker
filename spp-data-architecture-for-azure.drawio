@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T21:45:22.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="h8wAy3gEWDF4XgibER8N" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T21:52:26.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lqv5bW9F5vscOKpQdVAk" version="21.8.2" type="github">
   <diagram id="4_XCW6oBCm1cpU5HytLm" name="Page-1">
     <mxGraphModel dx="880" dy="510" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -119,7 +119,31 @@
           <mxGeometry x="549.38" y="175" width="35.25" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8jS6UkBqUCnionH_lNcG-10" value="SCO AND SDX&lt;br style=&quot;font-size: 9px;&quot;&gt;Spread accross different domains&lt;br style=&quot;font-size: 9px;&quot;&gt;Line of Business" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=9;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="576.75" y="317" width="35.25" height="47" as="geometry" />
+          <mxGeometry x="668.31" y="309" width="35.25" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Analysis_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="597" y="431" width="31.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="639" y="432" width="18.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="666" y="430" width="22.61" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="362" y="285" width="32" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="705" y="432" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Event_Hub_Clusters.svg;" vertex="1" parent="1">
+          <mxGeometry x="600.44" y="467" width="24.62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Stream_Analytics_Jobs.svg;" vertex="1" parent="1">
+          <mxGeometry x="639" y="462" width="29.31" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Workbooks.svg;" vertex="1" parent="1">
+          <mxGeometry x="685" y="465" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
