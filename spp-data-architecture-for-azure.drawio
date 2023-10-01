@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T22:40:13.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ek1BdlA_lLH82wpHGBbr" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T22:41:22.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tA2Tmnz-ncp81Lef3C10" version="21.8.2" type="github">
   <diagram id="4_XCW6oBCm1cpU5HytLm" name="Page-1">
     <mxGraphModel dx="1119" dy="680" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="8jS6UkBqUCnionH_lNcG-37" value="App Services" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="478.5" y="301" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8jS6UkBqUCnionH_lNcG-38" value="&amp;nbsp;--&amp;nbsp; Domain Driven Area usage&lt;br&gt;&lt;br&gt;&amp;nbsp;--&amp;nbsp; Lines of Business Usage" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="583.47" y="317.69" width="180" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
