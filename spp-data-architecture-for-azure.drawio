@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T19:55:33.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NhcY8ZIvfpZQaPcV7ye6" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T20:00:10.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_a-75kw7kyURdtnRrmZZ" version="21.8.2" type="github">
   <diagram id="4_XCW6oBCm1cpU5HytLm" name="Page-1">
     <mxGraphModel dx="880" dy="510" grid="0" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -30,24 +30,6 @@
         </mxCell>
         <mxCell id="oHFv8ve8owYaf5rruyJd-10" value="Structured" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1;verticalAlign=bottom;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="198" width="96" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="oHFv8ve8owYaf5rruyJd-19" value="CRM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-4/52/web__globe__data__technology__list__menu__webpage-128.png;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="72" y="236" width="18" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="oHFv8ve8owYaf5rruyJd-20" value="ERP" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-4/52/web__globe__data__technology__list__menu__webpage-128.png;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="99" y="236" width="18" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="oHFv8ve8owYaf5rruyJd-21" value="API" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-marketing-hand-drawn-vol-4/52/web__globe__data__technology__list__menu__webpage-128.png;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="126" y="236" width="18" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="oHFv8ve8owYaf5rruyJd-22" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="66" y="202" width="84" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oHFv8ve8owYaf5rruyJd-12" value="DWH,DM,&lt;br style=&quot;font-size: 5px;&quot;&gt;OLTP,ODS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;fontStyle=1;align=right;verticalAlign=middle;dashed=1;strokeColor=#FFFFFF;" parent="oHFv8ve8owYaf5rruyJd-22" vertex="1">
-          <mxGeometry width="84" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oHFv8ve8owYaf5rruyJd-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="oHFv8ve8owYaf5rruyJd-22" vertex="1">
-          <mxGeometry x="7" y="3" width="21.428749999999997" height="21" as="geometry" />
         </mxCell>
         <mxCell id="oHFv8ve8owYaf5rruyJd-23" value="Semi-Structured" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1;verticalAlign=bottom;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="291" width="96" height="114" as="geometry" />
