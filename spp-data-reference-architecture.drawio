@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T18:20:25.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="y81jFjlOD7RF2i2jiMfc" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T18:20:52.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TGX3r_HggrQlkP3Uy8Cz" version="21.8.2" type="github">
   <diagram id="4_XCW6oBCm1cpU5HytLm" name="Page-1">
     <mxGraphModel dx="880" dy="510" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
           <mxGeometry x="114.55" y="524" width="28.9" height="19" as="geometry" />
         </mxCell>
         <mxCell id="53FnnrvYB-HP6rrczW1--8" value="SSP Data Integration Reference Architecture" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="60" y="72" width="822" height="60" as="geometry" />
+          <mxGeometry x="64.71000000000001" y="72" width="822" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
